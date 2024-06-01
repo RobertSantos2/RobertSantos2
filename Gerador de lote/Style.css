@@ -1,0 +1,117 @@
+*{ padding: 0;margin: 0;}
+
+#image1{
+    margin-left: 10px;margin-top: 10px;margin-right: 10px;}
+
+.Container {
+    margin:2%;
+    padding:1px;
+    border-radius: 5px;
+    width: 650px;
+    height: 900px;
+    border: 3px solid black;
+    
+ 
+    }   
+.box{
+    display: flex;
+}
+
+.Titulo{
+    display: flex; padding: 5px;}    
+#titulo{
+    text-align: center;font-family:Arial;padding: 13px;}
+
+.alinhar{
+    display: flex;}
+
+.elemento{
+    width: 50%;
+    border: 0.5px solid black;
+    margin:1px;
+    text-align: center;
+    height: 45px;
+  
+    
+}
+
+#input_itensM1{
+    width: 155px;
+    border:none;
+    outline:none;
+    height: 30px;
+    margin-top: 1%;
+    font-size: 20px;
+    text-align: center;
+}
+#input_itensM2,#input_itensM3{
+    width: 300px;
+    border:none;
+    outline:none;
+    height: 37px;
+    margin-top: 1%;
+    font-size: 20px;
+    text-align: center;}
+
+.elemento_M{
+    width: 25%;
+    border: 0.5px solid black;
+    margin:1px;
+    height: 35px;
+    font-size: 12px;
+    text-align: center;
+
+}
+#elemento_M1{
+
+    width: 330px;
+    border: 0.5px solid black;
+    margin:1px; 
+    height: 26px;
+    border-bottom: none;
+    text-align:center;
+   
+    
+}
+
+#elemento_M2{
+
+    width: 330px;
+    border: 0.5px solid black;
+    margin:1px;
+    height: 48px;
+    border-top: none;
+    text-align: center;
+    margin-top: -11px;
+
+}
+#texto{
+    margin-top: 3%;
+    font-family: calibri;
+
+}
+#Input_qr{
+    outline: none;
+    border: none;
+    margin: 1%;
+    margin-left: 15%;
+
+}
+#data{
+    width: 320Px;
+    height: 25px;
+    margin-top: 10px;
+    font-size: 21px;
+    font-family: calibri;
+}
+#rodape{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#text_rodape{
+    width:245px;
+    text-align: center;
+    margin-top: 5%;
+
+}
