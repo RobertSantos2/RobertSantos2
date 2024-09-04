@@ -1,15 +1,4 @@
 
-<div  align="center" style="margin-bottom:100px">
-<img width=52% align="center"  src="https://github-readme-stats.vercel.app/api?username=RobertSantos2&show_icons=true&theme=radical&layout=compac") />
-<img width=39% align="center" src="https://github-readme-stats-pi-bay.vercel.app/api/top-langs/?username=RobertSantos2&show_icons=true&theme=radical&layout=compac" />
- </div>
- <br>
- <br>
- &nbsp;
- &nbsp;
-
-## My Skills
-#### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
